@@ -1,0 +1,33 @@
+@charset "utf-8"
+html {
+	font-size:100%;
+}
+body {
+  width: 192rem;
+}
+.header {
+  width: 192rem;
+  height: 30rem
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  border-bottom: 5px  solid;
+ 
+
+}
+.desktop {
+  margin-top: 1rem;
+  width: 192rem
+}
+.info {
+ margin-bottom: 3rem;
+}
+.desktop .group-1 {
+    margin-bottom:2rem;
+}
+textarea {
+    margin-top: 2rem;
+    width:25rem;
+    height: 20rem;
+}
